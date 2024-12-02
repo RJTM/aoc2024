@@ -29,3 +29,7 @@
  *     import { myUtil } from '../utils'
  *
  */
+
+export function removeElementAt<T>(array: T[], index: number) {
+  return array.filter((_, i) => i !== index);
+}

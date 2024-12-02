@@ -16,7 +16,7 @@
   "license": "ISC",
   "devDependencies": {
     "@types/bun": "^1.1.14",
-    "aocrunner": "^1.9.6",
+    "aocrunner": "^1.10.0",
     "prettier": "^3.4.1"
   },
   "dependencies": {},
